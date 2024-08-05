@@ -13,7 +13,7 @@ import org.apache.logging.log4j.core.config.builder.api.ConfigurationBuilderFact
 import org.apache.logging.log4j.core.config.builder.impl.BuiltConfiguration;
 import org.apache.logging.log4j.Logger;
 import org.tinylog.configuration.Configuration;
-import org.tinylog.Logger as TinyLogger;
+import org.tinylog.Logger;
 
 public class HelloWorld {
     // Java Util Logging
